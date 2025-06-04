@@ -2,6 +2,7 @@
   "name": "dark-vue",
   "displayName": "Dark+Vue",
   "description": "",
+  "repository": "https://github.com/ipcjs/vscode-theme-dark-vue.git",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.100.0"
@@ -9,6 +10,12 @@
   "categories": [
     "Themes"
   ],
+  "scripts": {
+    "build": "vsce package"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.4.2"
+  },
   "contributes": {
     "themes": [
       {
