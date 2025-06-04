@@ -3,7 +3,7 @@
   "displayName": "Dark+Vue",
   "description": "",
   "repository": "https://github.com/ipcjs/vscode-theme-dark-vue.git",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.100.0"
   },
