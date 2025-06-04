@@ -1,6 +1,8 @@
 {
 	"$schema": "vscode://schemas/color-theme",
+	"name": "Dark+Vue",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",
 		"activityBarBadge.background": "#007acc",
@@ -965,7 +967,37 @@
 			}
 		},
 		{
+			"name": "移除html标签的颜色, 方便接下来复写",
 			"scope": "entity.name.tag",
+			"settings": {
+				// "foreground": "#569CD6"
+			}
+		},
+		{
+			"name": "html标签未识别, 设为红色",
+			"scope": "meta.tag.other.unrecognized.html",
+			"settings": {
+				"foreground": "#F44747",
+			}
+		},
+		{
+			"name": "html属性的基础色, 设为白色",
+			"scope": [
+				"meta.attribute",
+			],
+			"settings": {
+				"foreground": "#d4d4d4",
+			}
+		},
+		{
+			"name": "html标签和vue标签, 设为蓝色",
+			"scope": [
+				"meta.tag.structure",
+				"meta.tag.inline",
+				"entity.name.tag.template.html.vue",
+				"entity.name.tag.script.html.vue",
+				"entity.name.tag.style.html.vue",
+			],
 			"settings": {
 				"foreground": "#569CD6"
 			}
