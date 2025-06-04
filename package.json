@@ -19,9 +19,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark+Vue",
+        "label": "Dark+ Vue",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark+Vue-color-theme.json"
+        "path": "./themes/dark-vue-color-theme.json"
+      },
+      {
+        "label": "Dark Modern Vue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-modern-vue-color-theme.json"
       }
     ]
   }
