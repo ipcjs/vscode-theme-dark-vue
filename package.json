@@ -1,4 +1,5 @@
 {
+  "publisher": "ipcjs",
   "name": "vue-template-theme",
   "displayName": "Vue Template Theme",
   "description": "A collection of VS Code themes optimized for Vue.js development, including dark and light variants for better syntax highlighting and readability.",
