@@ -11,7 +11,8 @@
     "Themes"
   ],
   "scripts": {
-    "build": "vsce package"
+    "build": "vsce package",
+    "release": "vsce publish"
   },
   "devDependencies": {
     "@vscode/vsce": "^3.4.2"
