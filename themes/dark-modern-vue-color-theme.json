@@ -944,7 +944,7 @@
 				"foreground": "#646695"
 			}
 		},
-	    {
+		{
 			"name": "移除html标签的颜色, 方便接下来复写",
 			"scope": [
 				// "entity.name.tag.html",

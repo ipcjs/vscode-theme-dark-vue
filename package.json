@@ -27,6 +27,11 @@
         "label": "Dark Modern Vue",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-modern-vue-color-theme.json"
+      },
+      {
+        "label": "Light Modern Vue Contrast",
+        "uiTheme": "vs",
+        "path": "./themes/light-modern-vue-contrast-color-theme.json"
       }
     ]
   }
