@@ -970,6 +970,8 @@
 			"scope": [
 				// "entity.name.tag.html",
 				"entity.name.tag.yaml",
+				"entity.name.tag.tsx",
+				"entity.name.tag.tsx",
 			],
 			"settings": {
 				"foreground": "#569CD6"

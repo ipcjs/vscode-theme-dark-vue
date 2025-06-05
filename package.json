@@ -4,7 +4,7 @@
   "displayName": "Vue Template Theme",
   "description": "A collection of VS Code themes optimized for Vue.js development, including dark and light variants for better syntax highlighting and readability.",
   "repository": "https://github.com/ipcjs/vscode-theme-dark-vue.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.100.0"
   },
