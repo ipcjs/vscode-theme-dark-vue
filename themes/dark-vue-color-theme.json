@@ -1,6 +1,5 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Dark+ Vue",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"colors": {

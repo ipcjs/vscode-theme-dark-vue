@@ -1,9 +1,9 @@
 {
-  "name": "dark-vue",
-  "displayName": "Dark+Vue",
-  "description": "",
+  "name": "vue-template-theme",
+  "displayName": "Vue Template Theme",
+  "description": "A collection of VS Code themes optimized for Vue.js development, including dark and light variants for better syntax highlighting and readability.",
   "repository": "https://github.com/ipcjs/vscode-theme-dark-vue.git",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.100.0"
   },
@@ -19,17 +19,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark+ Vue",
+        "label": "Dark+ (Vue)",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-vue-color-theme.json"
       },
       {
-        "label": "Dark Modern Vue",
+        "label": "Dark Modern (Vue)",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-modern-vue-color-theme.json"
       },
       {
-        "label": "Light Modern Vue Contrast",
+        "label": "Light Modern (Vue Contrast)",
         "uiTheme": "vs",
         "path": "./themes/light-modern-vue-contrast-color-theme.json"
       }

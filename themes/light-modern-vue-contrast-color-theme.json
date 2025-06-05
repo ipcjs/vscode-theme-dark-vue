@@ -1,6 +1,5 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Light Modern Vue Contrast",
 	"type": "light",
 	"semanticHighlighting": true,
 	"colors": {
